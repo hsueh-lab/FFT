@@ -1,0 +1,6 @@
+b1= 0.18
+b2= 0.2
+Elongation= 0.696
+MinArea= 1500
+MaxArea= 50000
+Gaussian filter= 20
